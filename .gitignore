@@ -1,0 +1,10 @@
+*.log
+*.suo
+.DS_STORE
+
+node_modules/**
+/platforms/**
+/plugins/**
+/www/**
+
+!dummy.txt
