@@ -1,5 +1,5 @@
-# StudenTask App
-StudenTask App for iOS and Android based on Ionic Framework.
+# ViciQloud Ionic Starter Project
+Starter Project for iOS and Android based on Ionic Framework.
 
 ## Getting started
 ### Prerequisites
@@ -45,6 +45,13 @@ ionic serve
 
 ## Working on the project
 
+### Working directory
+Work on your code under /src. To do: write about recommended folder structure
+
+### Building
+```
+gulp build
+```
 ### Adding or removing platforms / plugins
 Always use the ionic commands to add or remove platforms or plugins, e.g.:
 ```
